@@ -1,8 +1,8 @@
 # Lending Club Case Study
 > In this case study, apart from applying the techniques of EDA, it will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
-- Consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile?
-- The aim of this case study is to find out the defaulters and non defaulters?
-- Landing Club data is used for this analysis
+> Consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile?
+> The aim of this case study is to find out the defaulters and non defaulters?
+> Landing Club data is used for this analysis
 
 ## Table of Contents
 * [Project Objectives](#General-information)
